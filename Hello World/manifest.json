@@ -1,0 +1,8 @@
+{
+  "name": "Hello World Extension",
+  "version": "1.0",
+  "description": "Hellow World Chrome extension.",
+  "browser_action": {
+    "default_icon": "icon.png"
+  }
+}
