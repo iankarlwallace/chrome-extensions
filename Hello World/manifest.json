@@ -5,6 +5,6 @@
   "description": "Hellow World Chrome extension.",
   "browser_action": {
     "default_icon": "icon.png",
-    "popup": "helloworld.html"
+    "default_popup": "helloworld.html"
   }
 }
